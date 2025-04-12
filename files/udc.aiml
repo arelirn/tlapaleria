@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>Una disculpa, ¿podrías repetirme de qué estábamos hablando?</template>
+  </category>
+  
+  <category>
+    <pattern>CONSTRUCCIÓN</pattern>
+    <template>Tenemos materiales o herramientas ¿en qué estas interesado?</template>
+  </category>
+  
+  <category>
+    <pattern>HERRAJES</pattern>
+    <template>Contamos con tornillos, tuercas, rondanas y bisagras ¿cuál te interesa? </template>
+  </category>
+  
+  <category>
+    <pattern>TUBOS</pattern>
+    <template>¿Estás buscando cobre o pvc?</template>
+  </category>
+  
+  <category>
+    <pattern>LIMPIEZA</pattern>
+    <template>Te interesan líquidos, polvo o pasta</template>
+  </category>
+  
+  <category>
+    <pattern>*</pattern>
+    <template>Una disculpa, ¿podrías repetirme de qué estábamos hablando?</template>
+  </category>
+  
+</aiml>
